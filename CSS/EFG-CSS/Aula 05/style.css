@@ -1,0 +1,18 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    /*background-position: 100%, 10%;*/
+    background-position: top center;
+    background-size: cover;
+    /*background-size: fixed;  does not scroll*/
+}
+
+.foto-principal {
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+}
+
+p {
+    color: #222222;
+}
